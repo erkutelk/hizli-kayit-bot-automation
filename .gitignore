@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+chromedriver.exe
+mail_adress.txt
+project_log.txt
+config.py
